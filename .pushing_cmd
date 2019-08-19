@@ -1,0 +1,2 @@
+\android-sdk\platform-tools\adb.exe push .\android-bin\armeabi-v7a\hello-ndk /data/local/tmp
+\android-sdk\platform-tools\adb.exe shell chmod 777 /data/local/tmp/hello-ndk
